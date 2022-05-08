@@ -141,47 +141,61 @@ def main1():
         print "\x1b[1;91mFuck Your Bypass System 🖕🖕🖕- Security By BNS Team"
         exit()
     os.system('clear')
-   
-print("""
-\33[93m███╗   ███╗ █████╗██╗  ██╗██████╗ ██╗     \n\033[91m███╗ ████║██╔══██╗██║  ██║██╔══██╗██║    \n\033[1;32m██╔████╔██║███████║███████║██║  ██║██║   \n\33[97m██║╚██╔╝██║██╔══██║██╔══██║██║  ██║██║    \n\033[96m██║ ╚═╝ ██║██║  ██║██║  ██║██████╔╝██║    \n\033[0;35m╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝\033[0m 
-\033[0m================================================================
-\33[93mAUTHOR :\033[91m[MAHDI HASAN] SHUVO
-\033[0;33mGITHUB : \033[1;97mhttps://github.com/====
-\033[1;31mFb ; https://web.facebook.com/m.mahdi.80
-\033[1;36mWHATAPP:01887408882
-\033[1;33mLIVE in Sylhet (Read in class 10)
-\033[42mNo NEED GF \033[0;31mIF YOU LOVE ME I LOVE YOU IF U HAT ME I FUCK YOU 
-\033[0;36m================================================================""")
-print("""
-\033[1;36m[1]CLONE FROM2006- 2009 ID
-\033[1;32m[2]CLONE FROM 2009 ID 
-\033[1;88m[3]CLONE FROM 2010-2020 ID
-\033[1;33m[4]CLONE FROM  BANGLADESH 6DIG[All SIM]
-\033[1;32m[5]CLONE FROM INSTRAGAM ID
-\033[1;33m[6]CLONE FROM FRIENDLIST (NEED TOKEN)
-\033[1;36m[7]CLONE FROM  PUBLICK ID v2
-\033[1;32m[8]CLONE FROM ID BANGLADESH 11DIG[All SIM]
-\033[1;33m[9]CLONE FROM NUMBER BD
-\033[1;88m[10]CLONE FROM FREOM PAKISTAN 
-\033[1;88m[11]CLONE FROM FROM INDIA
-\033[0;33m[12]CLONE FROM AFGHANISTAN 
-\033[0;88m[13]CLONE FROM FREOM PAKISTAN V2(All SIM)
-\033[1;33m[14]CLONE FROM FREOM File Creating
-\033[1;35m[15]CLONE FROM LATEST FB CRACKING LOGIN
-\033[1;33m[16]CLONE FROM ID BANGLADESH 9DIG (All SIM)
-\033[1;32m[17]CLONE FROM 2009 ID [MAO]
-\033[1;37m[18]FB AUTO SHARE (need TOKEN)
-\033[1;33m[19]FB AUTO COMMENT(need TOKEN)
-\033[1;33m[20]CLONE DEATH YAHOO 
-\033[1;36m[21]CLONE FROM  PUBLICK ID  (Best)64 bid
-\033[1;36m[22]CLONE FROM  PUBLICK ID  (best)64 bid
-\033[1;33m[23]CLONE FROM FREOM File Creating V2
-\033[1;36m[24]CLONE FROM 2004- 2009 ID[Yahoo]
-\033[1;33m[25]CLONE FROM ID BANGLADESH 11DIG[BEST]
-\033[1;36m[26]CLONE FROM Thailand ID
-\033[1;36m[27]CLONE FROM  PUBLICK ID  (best)32 bid
-\033[1;36m[28]CLONE FROM  PUBLICK ID  (best)32 bid
-""")
+    print logo
+    print 47 * '\x1b[1;91m-'
+    print '\x1b[1;91m [\x1b[1;92m1\x1b[1;91m]\x1b[1;92m Start CRACKING'
+    time.sleep(0.05)
+    print '\x1b[1;91m [\x1b[1;92m0\x1b[1;91m]\x1b[1;92m Back'
+    pilih_login()
+
+def pilih_login():
+    if 1 in fuck:
+        os.system('#')
+    else:
+        os.system("clear")
+        print "\x1b[1;91mFuck Your Bypass System 🖕🖕🖕- Security By BNS Team"
+        exit()
+    peak = raw_input("\n\x1b[1;91m [\x1b[1;92m✓\x1b[1;91m]\x1b[1;92m CHOOSE : \x1b[1;92m")
+    if peak =="":
+        print "\x1b[1;92mFill In Correctly"
+        pilih_login()
+    elif peak in ["1", "01"]:
+        os.system('git clone https://github.com/Shuvo-BBHH/paidfree4')
+	os.system('cd paidfree4 && python mahdi.py')
+  
+
+    elif peak in ["FuK", "SEX"]:
+        Zeek()
+def Zeek():
+    os.system('clear')
+    print logo
+    print 47 * '\x1b[1;92m-'
+    print '\x1b[1;91m [\x1b[1;92m1\x1b[1;91m]\x1b[1;92m START CRACK OLD \x1b[1;91m[\x1b[1;93m2009\x1b[1;91m]'
+    time.sleep(0.10)
+    print '\x1b[1;91m [\x1b[1;92m0\x1b[1;91m]\x1b[1;92m Back'
+    time.sleep(0.10)
+    action()
+
+def action():
+    if 1 in fuck:
+        os.system('#')
+    else:
+        os.system("clear")
+        print "\x1b[1;91mFuck Your Bypass System 🖕🖕🖕- Security By BNS Team"
+        exit()
+    if 1 in fuck:
+        os.system('#')
+    else:
+        os.system("clear")
+        print logo
+        print("""
+
+
+        \033[1;36m[1]CLONE FROM2006- 2009 ID
+
+        \033[1;32m[2]CLONE FROM 2009 ID 
+
+        \033[1;88m[3]CLONE FROM 2010-2020 ID\033[1;33m[4]CLONE FROM  BANGLADESH 6DIG[All SIM]\n\033[1;32m[5]CLONE FROM INSTRAGAM ID\n""")
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
 
 if pil in ["01", "1"]:
