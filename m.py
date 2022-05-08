@@ -7,7 +7,7 @@ logo1 = """
 \033[0m================================================================\033[1;37m
 CREATED BY MAHDI HASAN(SHUVO)\033[1;34m
 FB ; https://web.facebook.com/mahdihasan.80\033[1;33m
-FB Grup ;https://web.facebook.com/group/\033[0m
+FB Grup ;https://web.facebook.com/group/\033[0m\n================================
 """
 
 os.system('clear')
